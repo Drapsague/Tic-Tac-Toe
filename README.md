@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-<img src="image/TTT_Pic.png" alt="TTT_Pic">  
+<img src="image/Tic-Tac-Toe.png" alt="TTT_Pic">  

@@ -4,8 +4,8 @@
     box-sizing: border-box;
 }
 :root{
-    --color-cross :#84cc16; 
-    --color-circle :#14b8a6;
+    --color-cross :#ef4444; 
+    --color-circle :#4f46e5;
 }
 body{
     font-family: 'Noto Sans Mono', monospace;
